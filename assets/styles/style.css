@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://cdn.wallpapersafari.com/4/95/HSYiKZ.jpg"); 
+  background-size: cover;
+  background-position: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+img {
+  width: 100%;
+}
+
+.intro {
+  width: 20%;
+  margin: 0 auto;
+}
+
+h1 {
+  background-color: rgb(240, 235, 235);
+  color: #0174bc;
+  font-size:40px;
+  text-align: center;
+  margin: 20px;
+  padding:20px;
+  opacity:.75
+}
+h2{
+  background-color: rgb(240, 235, 235);
+  color: #0174bc;
+  font-size:40px;
+  text-align: center;
+  margin: 20px;
+  padding:20px;
+  opacity:.75
+}
+h3{
+  background-color: rgb(240, 235, 235);
+  color: #0174bc;
+  font-size:40px;
+  text-align: center;
+  margin: 20px;
+  padding:20px;
+  opacity:.75
+}
+p{
+  background-color: rgb(240, 235, 235);
+  color: #0174bc;
+  font-size:40px;
+  text-align: center;
+  margin: 20px;
+  padding:20px;
+  opacity:.75
+}
+
+ul{
+  background-color: rgb(240, 235, 235);
+  color: #0174bc;
+  font-size:40px;
+  margin: 20px;
+  padding: 50px;
+  opacity:.75;
+  text-align: center;
+  list-style-position: inside;
+}
+
+ol{
+  background-color: rgb(240, 235, 235);
+  color: #0174bc;
+  font-size:40px;
+  text-align: center;
+  margin: 20px;
+  padding:20px;
+  opacity:.75
+}
+
+a:hover {
+  color: orangered;
+}
+
+.map {
+  width: 50%;
+  margin: 0 auto;
+}
