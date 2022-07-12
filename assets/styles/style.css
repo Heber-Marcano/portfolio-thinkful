@@ -21,64 +21,6 @@ img {
   margin: 0 auto;
 }
 
-h1 {
-  background-color: rgb(240, 235, 235);
-  color: #0174bc;
-  font-size:40px;
-  text-align: center;
-  margin: 20px;
-  padding:20px;
-  opacity:.75
-}
-h2{
-  background-color: rgb(240, 235, 235);
-  color: #0174bc;
-  font-size:40px;
-  text-align: center;
-  margin: 20px;
-  padding:20px;
-  opacity:.75
-}
-h3{
-  background-color: rgb(240, 235, 235);
-  color: #0174bc;
-  font-size:40px;
-  text-align: center;
-  margin: 20px;
-  padding:20px;
-  opacity:.75
-}
-p{
-  background-color: rgb(240, 235, 235);
-  color: #0174bc;
-  font-size:40px;
-  text-align: center;
-  margin: 20px;
-  padding:20px;
-  opacity:.75
-}
-
-ul{
-  background-color: rgb(240, 235, 235);
-  color: #0174bc;
-  font-size:40px;
-  margin: 20px;
-  padding: 50px;
-  opacity:.75;
-  text-align: center;
-  list-style-position: inside;
-}
-
-ol{
-  background-color: rgb(240, 235, 235);
-  color: #0174bc;
-  font-size:40px;
-  text-align: center;
-  margin: 20px;
-  padding:20px;
-  opacity:.75
-}
-
 a:hover {
   color: orangered;
 }
@@ -86,4 +28,15 @@ a:hover {
 .map {
   width: 50%;
   margin: 0 auto;
+}
+h1, h2, h3, p, ul, ol {
+  background-color: rgb(240, 235, 235);
+  font-family:Helvetica, sans-serif;
+  color: #0174bc;
+  font-size:40px;
+  text-align: center;
+  margin: 20px;
+  padding:20px;
+  opacity:.75;
+  
 }
